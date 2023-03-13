@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="206" height="190" viewBox="0 0 206 190">
+  <g id="Group_3048" data-name="Group 3048" transform="translate(-861 -544)">
+    <g id="Group_1254" data-name="Group 1254" transform="translate(808.683 469.576)">
+      <g id="Group_1247" data-name="Group 1247" transform="translate(0 0)">
+        <g id="Rectangle_10371" data-name="Rectangle 10371" transform="translate(52.317 74.424)" fill="none" stroke="#0c0439" stroke-width="2.5" opacity="0.002">
+          <rect width="206" height="190" stroke="none"/>
+          <rect x="1.25" y="1.25" width="203.5" height="187.5" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_3081" data-name="Group 3081">
+        <g id="Group_1245" data-name="Group 1245" transform="translate(230.522 93.391) rotate(90)">
+          <rect id="Rectangle_10367" data-name="Rectangle 10367" width="4.729" height="148.165" transform="translate(0 0.788)" fill="#0f9aad"/>
+          <rect id="Rectangle_10374" data-name="Rectangle 10374" width="4.729" height="39.405" transform="translate(0.788 4.729) rotate(-90)" fill="#0f9aad"/>
+          <rect id="Rectangle_10381" data-name="Rectangle 10381" width="4.729" height="39.405" transform="translate(37.041 148.953) rotate(-90)" fill="#0f9aad"/>
+          <rect id="Rectangle_10382" data-name="Rectangle 10382" width="4.729" height="39.405" transform="translate(74.87 4.729) rotate(-90)" fill="#0f9aad"/>
+          <rect id="Rectangle_10383" data-name="Rectangle 10383" width="4.729" height="39.405" transform="translate(111.124 148.953) rotate(-90)" fill="#0f9aad"/>
+          <rect id="Rectangle_10373" data-name="Rectangle 10373" width="4.729" height="148.165" transform="translate(36.253 0.788)" fill="#0f9aad"/>
+          <rect id="Rectangle_10376" data-name="Rectangle 10376" width="4.729" height="148.165" transform="translate(74.082 0.788)" fill="#0f9aad"/>
+          <rect id="Rectangle_10379" data-name="Rectangle 10379" width="4.729" height="148.165" transform="translate(110.335 0.788)" fill="#0f9aad"/>
+          <rect id="Rectangle_10380" data-name="Rectangle 10380" width="4.729" height="148.165" transform="translate(146.588 0.788)" fill="#0f9aad"/>
+        </g>
+        <circle id="Ellipse_87" data-name="Ellipse 87" cx="11" cy="11" r="11" transform="translate(71.317 85.424)" fill="#0f9aad"/>
+      </g>
+    </g>
+  </g>
+</svg>

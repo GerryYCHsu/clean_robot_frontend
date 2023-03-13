@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="206" height="190" viewBox="0 0 206 190">
+  <g id="Group_3085" data-name="Group 3085" transform="translate(-53 -74)">
+    <g id="Group_1245" data-name="Group 1245" transform="translate(231.704 243.103) rotate(180)">
+      <rect id="Rectangle_10367" data-name="Rectangle 10367" width="5" height="148" transform="translate(-0.296 1.103)" fill="#0c0439"/>
+      <rect id="Rectangle_10374" data-name="Rectangle 10374" width="4.729" height="39.405" transform="translate(0.788 4.729) rotate(-90)" fill="#0c0439"/>
+      <rect id="Rectangle_10381" data-name="Rectangle 10381" width="4.729" height="39.405" transform="translate(37.041 148.953) rotate(-90)" fill="#0c0439"/>
+      <rect id="Rectangle_10382" data-name="Rectangle 10382" width="4.729" height="39.405" transform="translate(74.87 4.729) rotate(-90)" fill="#0c0439"/>
+      <rect id="Rectangle_10383" data-name="Rectangle 10383" width="4.729" height="39.405" transform="translate(111.124 148.953) rotate(-90)" fill="#0c0439"/>
+      <rect id="Rectangle_10373" data-name="Rectangle 10373" width="4" height="148" transform="translate(36.704 1.103)" fill="#0c0439"/>
+      <rect id="Rectangle_10376" data-name="Rectangle 10376" width="5" height="148" transform="translate(73.704 1.103)" fill="#0c0439"/>
+      <rect id="Rectangle_10379" data-name="Rectangle 10379" width="4" height="148" transform="translate(110.704 1.103)" fill="#0c0439"/>
+      <rect id="Rectangle_10380" data-name="Rectangle 10380" width="5" height="148" transform="translate(146.704 1.103)" fill="#0c0439"/>
+    </g>
+    <g id="Path_1122" data-name="Path 1122" transform="translate(53 74)" fill="none">
+      <path d="M0,0H206V190H0Z" stroke="none"/>
+      <path d="M 4 4 L 4 186 L 202 186 L 202 4 L 4 4 M 0 0 L 206 0 L 206 190 L 0 190 L 0 0 Z" stroke="none" fill="#0c0439"/>
+    </g>
+  </g>
+</svg>
